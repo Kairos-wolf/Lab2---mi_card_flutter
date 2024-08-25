@@ -1,0 +1,1 @@
+ D:\\Kotlin\\Java\\mi_card_flutter\\.dart_tool\\flutter_build\\3ea6d45cefee6b07f19ef3433a24ee03\\native_assets.yaml: 
